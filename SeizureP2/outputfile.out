@@ -1,0 +1,24 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 2 (23.2.0.2391609) 64-bit (glnxa64)
+                             September 22, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 162855.311267 seconds.
+
+======================================================================================
+                  Resource Usage on 2025-07-10 21:52:08:
+   Job Id:             144885058.gadi-pbs
+   Project:            hl36
+   Exit Status:        0
+   Service Units:      4298.27
+   NCPUs Requested:    2                      NCPUs Used: 2               
+                                           CPU Time Used: 82:34:55        
+   Memory Requested:   190.0GB               Memory Used: 155.97GB        
+   Walltime requested: 47:50:00            Walltime Used: 45:14:42        
+   JobFS requested:    10.0GB                 JobFS used: 0B              
+======================================================================================
