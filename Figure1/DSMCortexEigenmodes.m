@@ -2,11 +2,9 @@ clc;
 clear all;
 close all;
 
-load('UncoupledCH.mat')
+load('UncoupledCH.mat');
 load('cortexMesh.mat');
-load('hippocampusMesh.mat');
 load('corticalEigen200.mat');
-load('hippoEigen200.mat');
 
 fontSz = 25;
 

@@ -4,9 +4,7 @@ close all
 
 load('UncoupledCH.mat');
 load('cortexMesh.mat');
-load('hippocampusMesh.mat');
 load('corticalEigen200.mat');
-load('hippoEigen200.mat');
 
 plotColor = [0.5, 0.6, 1.0];
 

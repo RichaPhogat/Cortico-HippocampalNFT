@@ -2,10 +2,10 @@ clc
 clear all
 
 load('UncoupledCH.mat');
+load('D:\Cortico-HippocampalNFT\UncoupledCortexHippo\UncoupledCH.mat');
+
 load('corticalEigen200.mat');
-load('hippoEigen200.mat');
 load('cortexMesh.mat');
-load('hippocampusMesh.mat');
 
 fs = 1 / (dt * PointsToJump);
 
