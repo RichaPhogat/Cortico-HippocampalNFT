@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Code for: A unifying framework for healthy and pathological cortico-hippocampal interactions"
+authors:
+  - family-names: Phogat
+    given-names: Richa
+repository-code: "https://github.com/RichaPhogat/Cortico-HippocampalNFT"
+abstract: >
+  MATLAB code implementing neural field models of 
+  1) cortico-thalamic and
+  2) hippocampo-septal interactions,
+  3) cortico-hippocampal interactions, 
+  4) patient specific seizure dynamics. 
+  
+keywords:
+  - neural field theory
+  - cortico-hippocampal interactions
+  - corticothalamic model
+  - hippocampus
+  - eigenmodes
+  - seizure dynamics
+license: MIT
+date-released: 2025
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Phogat
+      given-names: Richa
+  title: "A unifying framework for healthy and pathological cortico-hippocampal interactions"
+  journal: "bioRxiv"
+  year: 2025
